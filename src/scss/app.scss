@@ -89,11 +89,11 @@ h6 {
 
 /*--------------------*/
 .wrapper {
-    border:1px solid gray;
+    // border:1px solid gray;
     width: 600px;
-    height: 400px;
+    top: 20px;
     position: relative;
-    top: 50%;
+
     left: 50%;
-    transform: translate(-50%,50%);
+    transform: translateX(-50%);
 }
